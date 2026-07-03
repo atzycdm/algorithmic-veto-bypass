@@ -37,14 +37,12 @@ Execute these steps sequentially to deploy the framework to your own professiona
 ### 7. Step 2: Configure the Contractor Shield
 * Replace your physical local street address on your resume with a broader timezone indicator (e.g., `Timezone: CST / EST | Available for Global Remote`).
 * Ensure your LinkedIn profile explicitly contains the keyword `Contractor` or `Open to remote contracts globally`.
-* When an application asks for a US ZIP code and it is a hard requirement, pivot immediately to direct recruiter sourcing (Step 3) instead of forcing a fake data point.
-* 
+* When an application asks for a US ZIP code and it is a hard requirement, pivot immediately to direct recruiter sourcing (Step 3) instead of forcing a fake data point. 
 ### 8. Step 3: Implement the 16-Hour Human Overdrive
 * Never apply to a job posting that has been online for more than 24 hours via a portal; the algorithmic queue is already saturated.
 * Locate the job posting on LinkedIn.
 * Click on the company profile, navigate to the **People** tab, and filter by: `Technical Recruiter` or `Talent Acquisition`.
 * Send a direct, 3-sentence message pitch focused entirely on how you operate under the W-8BEN contractor model to save them legal overhead.
-*
 ### 9. Step 4: Cognitive Colorimetry & The 3-Second Hook
 * **The Psychology of the Scroll:** Human recruiters review hundreds of profiles a day. If your layout lacks an immediate focal point, it gets skipped.
 * **The Behavioral Pattern:** This framework leverages specific cognitive colorimetry setups (like high-contrast corporate tones) paired with an executive metadata header.
