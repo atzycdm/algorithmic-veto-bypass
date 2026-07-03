@@ -1,7 +1,7 @@
-# [ATZYRI CAMPOS, B.S. Psych]
+# ATZYRI CAMPOS, B.S. Psych
 **Enterprise Transformation Executive | Operating Model Architect**  
 `Timezone: CST / EST / PST` | `Available for W-8BEN / 1099 Fractional Remote`  
-Contact: [psic.atzy.campos@gmail.com] | LinkedIn: [www.linkedin.com/in/atzy-campos]
+Contact: psic.atzy.campos@gmail.com | LinkedIn: www.linkedin.com/in/atzy-campos
 
 ---
 
