@@ -1,8 +1,3 @@
-"""
-<p align="center">
-  <img src="https://github.com" alt="The Orange Method" width="100%">
-</p>
-
 # 🛡️ SYSTEM CONFIDENTIALITY AND INTEGRITY PROTOCOL
 ====================================================================
 STATUS: MANDATORY GATEKEEPER ACTIVE
