@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Algorithmic%20Veto%20Bypass.png" alt="The Orange Method" width="100%">
+</p>
+
 # algorithmic-veto-bypass
 Framework and tools to engineer resumes and application pipelines that stop the corporate ATS auto-rejection loop.
 ## 🏗️ Core Architecture: The 3-Layer Bypass
